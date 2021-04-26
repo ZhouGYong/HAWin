@@ -1,2 +1,2 @@
 # HAWin
-Provide lightweight high availability for windows platform
+A lightweight high availability framework for windows platform
